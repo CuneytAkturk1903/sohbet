@@ -1,0 +1,12 @@
+{
+  "name": "sohbet-server",
+  "version": "1.0.0",
+  "description": "Kankamla sohbet serverı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
